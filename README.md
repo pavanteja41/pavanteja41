@@ -6,7 +6,7 @@
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on DATA 
-- 🌱 I’m currently learning DATA SCIENCE
+- 🌱 I’m currently learning DATA SCIENCE from IIT M
 <!--- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
